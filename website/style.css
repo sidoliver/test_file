@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    font-family: poppins;
+    font-size: 3rem;
+    color: rgb(209, 190, 190);
+    background: rgb(37, 35, 35);
+    font-weight: bold;
+}
+h1 {
+    font-size: 3rem;
+    font-family: poppins;
+    color:  orange;
+    margin: 10px;
+}
+h3 {
+    font-size: 1.2rem;
+    color: rgb(98, 2, 66);
+    font-weight: 500;
+    margin: 0 10px;
+}
+img {
+   height: 30vh;
+   margin: 0 35px;
+}
